@@ -93,6 +93,7 @@ align-items: center;
     flex-direction: column-reverse;
 
 }
+
 #MainContent{
     justify-content: space-around;
     gap: 5px;
